@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Lib of Duskmoon",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Lib of Duskmoon Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.关于我": {
+    "message": "About Me",
+    "description": "Navbar item with label 关于我"
+  },
+  "item.label.博客": {
+    "message": "Blog",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.杂评": {
+    "message": "Review",
+    "description": "Navbar item with label 杂评"
+  }
+}

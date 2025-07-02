@@ -1,0 +1,10 @@
+{
+  "sidebar.reviewSidebar.category.书评": {
+    "message": "Book Review",
+    "description": "The label for category 书评 in sidebar reviewSidebar"
+  },
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  }
+}

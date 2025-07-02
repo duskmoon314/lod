@@ -175,7 +175,7 @@ const config: Config = {
     },
     algolia: {
       appId: "C3ROG2Z4EZ",
-      apiKey: "6fd3ef15fabbd6e4589e820019157865",
+      apiKey: "fea27bd9c7ea98672c63d46ce4dab93a",
       indexName: "duskmoon314",
     },
   } satisfies Preset.ThemeConfig,

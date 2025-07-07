@@ -110,3 +110,7 @@ html[data-theme="dark"] .header--github-link:before {
 article {
   font-family: "LXGW Bright";
 }
+
+p:has(img) {
+  @apply flex justify-center;
+}

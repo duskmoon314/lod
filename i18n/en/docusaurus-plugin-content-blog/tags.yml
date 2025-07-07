@@ -1,10 +1,10 @@
 ---
 encode:
-  label: 编码
+  label: Encode
   permalink: /encode
 math:
-  label: 数学
+  label: Math
   permalink: /math
 notes:
-  label: 笔记
+  label: Notes
   permalink: /notes

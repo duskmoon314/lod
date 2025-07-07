@@ -5,7 +5,7 @@ description: |
 authors:
   - duskmoon
 tags:
-  - 学习笔记
+  - notes
   - go
   - "6.824"
 ---

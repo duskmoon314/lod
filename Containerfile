@@ -14,4 +14,4 @@ COPY --from=builder /home/bun/app/build ./build
 
 EXPOSE 8080
 
-ENTRYPOINT ["/app/miniserve", "-p", "8080", "--index", "index.html", "build"]
+ENTRYPOINT ["/app/miniserve", "-p", "8080", "--index", "index.html", "--spa", "build"]

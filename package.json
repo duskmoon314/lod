@@ -38,7 +38,7 @@
     "@docusaurus/tsconfig": "3.8.1",
     "@docusaurus/types": "3.8.1",
     "cn-font-split": "^7.2.9",
-    "typescript": "~5.6.2"
+    "typescript": "~5.9.0"
   },
   "browserslist": {
     "production": [

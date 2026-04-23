@@ -71,7 +71,7 @@ const config: Config = {
         },
 
         sitemap: {
-          lastmod: "date",
+          lastmod: null,
         },
       } satisfies Preset.Options,
     ],

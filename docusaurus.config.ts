@@ -16,7 +16,7 @@ const config: Config = {
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
 
-    experimental_faster: true,
+    faster: true,
   },
 
   // Set the production url of your site here
@@ -40,7 +40,7 @@ const config: Config = {
     locales: ["zh", "en"],
     localeConfigs: {
       zh: {
-        htmlLang: "zh-cmn-Hans-CN",
+        htmlLang: "cmn-Hans-CN",
       },
     },
   },

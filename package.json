@@ -16,32 +16,32 @@
     "cn-font-split": "cn-font-split"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.10.0",
-    "@docusaurus/faster": "^3.10.0",
-    "@docusaurus/preset-classic": "^3.10.0",
+    "@docusaurus/core": "^3.10.1",
+    "@docusaurus/faster": "^3.10.1",
+    "@docusaurus/preset-classic": "^3.10.1",
     "@iconify/react": "^6.0.2",
     "@mdx-js/react": "^3.1.1",
-    "@tailwindcss/postcss": "^4.2.2",
+    "@tailwindcss/postcss": "^4.3.0",
     "autoprefixer": "^10.5.0",
-    "baseline-browser-mapping": "^2.10.19",
-    "caniuse-lite": "^1.0.30001788",
+    "baseline-browser-mapping": "^2.10.30",
+    "caniuse-lite": "^1.0.30001793",
     "clsx": "^2.1.1",
     "daisyui": "^5.5.19",
     "i": "^0.3.7",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.14",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.5",
-    "react-dom": "^19.2.5",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
-    "tailwindcss": "^4.2.2"
+    "tailwindcss": "^4.3.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.10.0",
-    "@docusaurus/tsconfig": "^3.10.0",
-    "@docusaurus/types": "^3.10.0",
+    "@docusaurus/module-type-aliases": "^3.10.1",
+    "@docusaurus/tsconfig": "^3.10.1",
+    "@docusaurus/types": "^3.10.1",
     "cn-font-split": "^7.4.1",
-    "typescript": "~6.0.2"
+    "typescript": "~6.0.3"
   },
   "browserslist": {
     "production": [

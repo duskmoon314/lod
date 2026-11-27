@@ -40,7 +40,7 @@
     "@docusaurus/module-type-aliases": "^3.10.1",
     "@docusaurus/tsconfig": "^3.10.1",
     "@docusaurus/types": "^3.10.1",
-    "cn-font-split": "^7.4.1",
+    "cn-font-split": "^8.0.0",
     "typescript": "~6.0.3"
   },
   "browserslist": {
